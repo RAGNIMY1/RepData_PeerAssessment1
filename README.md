@@ -166,3 +166,5 @@ https://github.com/rdpeng/RepData_PeerAssessment1
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
+
+**Note**: To execute the script, the working directory has to be changed accordingly (setwd command)
